@@ -1,0 +1,29 @@
+body {
+    background-image:url(madeira.jpg);
+    background-color:none;
+    background-size: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu li {
+    list-style:none;
+}
+.menu ul {
+    display: flex;
+    justify-content:space-around ;
+    background-color:none;
+}
+figure {
+   text-align: center;
+}
+h1 {
+    color: black;
+    background-color:none;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+a:hover {
+    text-decoration: underline;
+}
